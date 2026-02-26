@@ -200,7 +200,3 @@ Ao concluir este desafio você será capaz de:
 - Realizar consultas complexas
 - Aplicar Migrations
 - Desenvolver um app com persistência real
-
-Você agora deixou de ser um desenvolvedor básico.
-
-Você começou a programar como alguém que trabalha em empresa.
