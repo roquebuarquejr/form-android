@@ -1,4 +1,4 @@
-# 🚀 Formação Android — Do Zero ao Desenvolvedor Avançado
+# 🚀 Formação Android
 
 Bem-vindo à **Formação Android**, uma trilha estruturada para transformar iniciantes em desenvolvedores Android preparados para o mercado.
 
