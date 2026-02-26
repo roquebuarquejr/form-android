@@ -56,7 +56,7 @@ Aplicativo com múltiplas telas, cálculos e exibição de resultados utilizando
 
 ---
 
-# 🟡 Nível 2 — Listas e Coleções
+# 🟢 Nível 1 — Listas e Coleções
 
 ## 🔹 Tecnologias
 
@@ -79,7 +79,7 @@ Aplicativo com listagem dinâmica, filtros, ordenação e atualização de dados
 
 ---
 
-# 🟡 Nível 3 — Persistência Local
+# 🟡 Nível 2 — Persistência Local
 
 ## 🔹 Tecnologias
 
@@ -100,7 +100,7 @@ Sistema completo com persistência local, relacionamentos e gerenciamento de dad
 
 ---
 
-# 🟠 Nível 4 — Consumo de APIs
+# 🟡 Nível 2 — Consumo de APIs
 
 ## 🔹 Tecnologias
 
@@ -126,7 +126,7 @@ Aplicativo consumindo API real com paginação, imagens e controle de estado.
 
 ---
 
-# 🔵 Nível 5 — Arquitetura Profissional
+# 🔵 Nível 3 — Arquitetura Profissional
 
 ## 🔹 Tecnologias
 
@@ -150,7 +150,7 @@ Aplicativo estruturado seguindo arquitetura profissional usada no mercado.
 
 ---
 
-# 🔴 Nível 6 — Testes Automatizados
+# 🔵 Nível 3 — Testes Automatizados
 
 ## 🔹 Tecnologias
 
@@ -176,7 +176,7 @@ Aplicativo com cobertura de testes unitários e testes de interface.
 
 ---
 
-# 🔴 Nível 7 — Injeção de Dependência
+# 🔴 Nível 4 — Injeção de Dependência
 
 ## 🔹 Tecnologias
 
