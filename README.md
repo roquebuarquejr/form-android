@@ -35,7 +35,6 @@ Cada nível representa uma evolução técnica real.
 - 🟢 Nível 1 — Fundamentos Android & Listas
 - 🟡 Nível 2 — Persistência Local & Consumo de APIs
 - 🔵 Nível 3 — Arquitetura & Testes
--  🔴 Nível 4 — Injeção de Dependência
 
 ---
 
